@@ -4,9 +4,9 @@
 May 22, 2021
 
 ### Project Title
-Exploring US Bike Data
+Exploring US Bike Data (Using Python)
 
-### Description
+### Description of Project
 Use Python to understand US Bikeshare data across cities like Chicago, New York, Washington. Calculate statistics with user interaction and filters of a dataset for analysis.
 
 ### Files used
@@ -16,4 +16,4 @@ washington.csv
 
 ### Credits
 https://docs.python.org/3/library/
-https://classroom.udacity.com/nanodegrees/nd104/parts/53470233-d93c-4a31-a59f-11388272fe6b 
+https://classroom.udacity.com/nanodegrees/nd104/parts/53470233-d93c-4a31-a59f-11388272fe6b
